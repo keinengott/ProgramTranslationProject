@@ -5,3 +5,5 @@ Note: While working on this, I noticed a pretty big mistake in the parser with h
 To compile, type 'make' in this directory. 'make clean' will remove the generated files.
 
 To run the project, either type /compfs somefile' or './compfs < somefile.fs'
+
+If you are reading this, do not use this as an example for anything. It is trash.
